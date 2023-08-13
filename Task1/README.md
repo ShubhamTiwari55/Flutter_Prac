@@ -7,7 +7,7 @@
 
 ## Guidelines:
 - Create a new branch following the naming convention outlined in the repo README.md
-- Create a folder named as '<your-name>'
+- Create a folder named **'your-name'**
 - Initialize Flutter inside the Folder and start working on the task
 - DO NOT DELETE THIS FILE!
 
